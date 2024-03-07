@@ -27,10 +27,10 @@ jobs:
           node-version: 'lts/*'
 
       - name: Install dependencies
-        run: npm install
+        run: pnpm install
 
       - name: Build
-        run: npm run build -- --base /intro-to-curl-talk/
+        run: pnpm run build -- --base /intro-to-curl-talk/
 
       - uses: actions/configure-pages@v4
 
