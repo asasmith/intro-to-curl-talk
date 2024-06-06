@@ -24,7 +24,7 @@ layout: center
 <a v-click src="https://github.com/asasmith">@asasmith on github</a>
 <span v-click> (one million incomplete side projects and learning adventures)</span>
     
-<a v-click src="https://twitter.com/asa_smith">@asa_smith on 🐦</a>
+<a v-click src="https://twitter.com/average_dev_asa">@asa_smith on 🐦</a>
 <span v-click> (literally 10's of tweets per year)</span>
 
 
